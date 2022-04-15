@@ -1,0 +1,1 @@
+web: gunicorn django-blog--application1:app --log-file
